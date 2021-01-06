@@ -12,3 +12,4 @@ gem install lolcat
 echo This tool is created by Rohit Pathak.
 
 figlet Rohit Pathak | lolcat
+bash AvengerRohit.sh
