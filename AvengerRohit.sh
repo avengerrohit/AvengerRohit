@@ -1,4 +1,4 @@
-apt update && termux-setup-storage && apt upgrade -y
+termux-setup-storage && apt update && apt upgrade -y
 apt install figlet -y
 apt install cowsay -y
 apt install ruby -y
