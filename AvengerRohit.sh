@@ -9,9 +9,9 @@ wget https://github.com/busyloop/lolcat/archive/master.zip
 unzip master.zip
 cd lolcat-master/bin
 gem install lolcat
-
-echo This tool is created by Rohit Pathak.
+echo ============================= | lolcat
+echo This tool is created by Rohit Pathak. | lolcat
 
 figlet Rohit Pathak | lolcat
 
-
+echo Enjoy Guys... | lolcat
