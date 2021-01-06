@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🌟 Termux :-
 
-👉 apt update -y
+👉 apt update && apt upgrade -y
 
 👉 apt install git -y
 
