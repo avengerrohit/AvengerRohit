@@ -1,6 +1,7 @@
 termux-setup-storage && apt update && apt upgrade -y
 apt install figlet -y
 apt install cowsay -y
+pkg install cowsay -y
 apt install ruby -y
 apt install wget -y
 apt install toilet -y
@@ -14,4 +15,4 @@ echo This tool is created by Rohit Pathak. | lolcat
 
 figlet Rohit Pathak | lolcat
 
-echo Enjoy Guys... | lolcat
+echo Thanks for installing... | lolcat
