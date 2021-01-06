@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Termux :-
+🌟 Termux :-
 
-apt update -y
-apt install git -y
-git clone https://github.com/avengerrohit/AvengerRohit.git
-cd AvengerRohit/
-chmod +x *
-bash AvengerRohit.sh
-bash TheFirstAvenger.sh
+👉 apt update -y
+
+👉 apt install git -y
+
+👉 git clone https://github.com/avengerrohit/AvengerRohit.git
+
+👉 cd AvengerRohit/
+
+👉 chmod +x *
+
+👉 bash AvengerRohit.sh
+
+👉 bash TheFirstAvenger.sh
